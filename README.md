@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrishyaShrestha09&theme=radical&hide_border=false" alt="GitHub Streak"/>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
