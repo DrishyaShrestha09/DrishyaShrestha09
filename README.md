@@ -35,21 +35,12 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrishyaShrestha09&theme=radical&hide_border=false" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishyaShrestha09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
+<div style="text-align: right;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrishyaShrestha09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=DrishyaShrestha09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrishyaShrestha09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DrishyaShrestha09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
