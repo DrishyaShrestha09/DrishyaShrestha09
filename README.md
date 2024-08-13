@@ -3,14 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a mobile application.<br>👯 I’m looking to collaborate on interesting projects.<br>🤝 I’m looking for help with backend integration.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about fullstack development.<br>⚡ Fun fact: I love anime and going to the gym.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drishya_stha) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridan-shrestha-57ab56293) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ridanstha) 
-
-## 📧 Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridanstha09@gmail.com)
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
