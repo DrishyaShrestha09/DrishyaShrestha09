@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ridan, AKA Drishya Shrestha, and I am a passionate fullstack developer from Nepal.</h1>
+<h1 align="left">Hi 👋! My name is Drishya Shrestha, AKA Ridan, and I am a passionate fullstack developer from Nepal.</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on a mobile application.<br>👯 I’m looking to collaborate on interesting projects.<br>🤝 I’m looking for help with backend integration.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about fullstack development.<br>⚡ Fun fact: I love anime and going to the gym.
