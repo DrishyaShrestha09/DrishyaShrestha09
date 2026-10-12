@@ -1,7 +1,13 @@
 <h1 align="left">Hi 👋! My name is Drishya Shrestha, AKA Ridan, and I am a passionate fullstack developer from Nepal.</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a react application.<br>👯 I’m looking to collaborate on interesting projects.<br>🤝 I’m looking for help with backend integration.<br>🌱 I’m currently learning python.<br>💬 Ask me about fullstack development.<br>⚡ Fun fact: I love anime and going to the gym.
+🔭 I’m building full-stack applications with React, TypeScript, and Node.js.<br>
+🎓 BSc (Hons) Computing Graduate.<br>
+💻 Interested in backend engineering, AI, and system design.<br>
+🌱 Currently exploring Python, AI/ML, and new technologies.<br>
+🤝 Open to collaborating on meaningful projects and open-source.<br>
+💬 Ask me about full-stack development, React, and backend integration.<br>
+⚡ Fun fact: Anime enthusiast, gym-goer, and lifelong learner.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
